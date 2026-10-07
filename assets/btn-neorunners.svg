@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="231" height="44" viewBox="0 0 231 44" role="img" aria-labelledby="title desc">
+<title id="title">PLAY NEORUNNERS</title>
+<desc id="desc">PLAY NEORUNNERS button</desc>
+<style>.sheen{animation:sheen 4.5s ease-in-out 0.35s infinite}@keyframes sheen{0%{transform:translateX(-80px)}40%{transform:translateX(271px)}100%{transform:translateX(271px)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<path id="q50" d="M125 0V-625H625V-500H750V-375H625V-250H375V0Z
+M375 -375H495V-500H375Z"/>
+<path id="q4c" d="M125 0V-625H375V-125H625V0Z"/>
+<path id="q41" d="M125 0V-500H250V-625H625V-500H750V0H500V-250H375V0Z
+M375 -375H500V-495H375Z"/>
+<path id="q59" d="M375 0V-375H250V-500H125V-625H375V-500H625V-625H875V-500H750V-375H625V0Z"/>
+<path id="q4e" d="M125 0V-625H375V-500H500V-375H625V-625H875V0H625V-125H500V-250H375V0Z"/>
+<path id="q45" d="M125 0V-625H625V-500H375V-375H625V-250H375V-125H625V0Z"/>
+<path id="q4f" d="M250 0V-125H125V-500H250V-625H625V-500H750V-125H625V0Z
+M375 -130H500V-495H375Z"/>
+<path id="q52" d="M125 0V-625H625V-500H750V-375H625V-125H750V0H500V-125H375V0Z
+M375 -375H500V-500H375Z"/>
+<path id="q55" d="M250 0V-125H125V-625H375V-125H500V-625H750V-125H625V0Z"/>
+<path id="q53" d="M125 0V-125H500V-250H250V-375H125V-500H250V-625H750V-500H375V-375H625V-250H750V-125H625V0Z"/>
+<clipPath id="buttonClip">
+<path d="M8 1H223L230 8V36L223 43H8L1 36V8Z"/>
+</clipPath>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#f4476b" stop-opacity="0"/>
+<stop offset=".5" stop-color="#f4476b" stop-opacity=".28"/>
+<stop offset="1" stop-color="#f4476b" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<path d="M8 1H223L230 8V36L223 43H8L1 36V8Z" fill="#04060a"/>
+<path d="M8 1H223L230 8V36L223 43H8L1 36V8Z" fill="#f4476b" fill-opacity=".08"/>
+<g clip-path="url(#buttonClip)">
+<path d="M0 3.5H231" stroke="#f4476b" stroke-opacity=".25"/>
+<g class="sheen">
+<rect x="0" y="0" width="60" height="44" fill="url(#sheen)" transform="skewX(-20)"/>
+</g>
+</g>
+<path d="M8 1H223L230 8V36L223 43H8L1 36V8Z" fill="none" stroke="#f4476b" stroke-width="2"/>
+<g transform="translate(14 15.0) scale(2)" shape-rendering="crispEdges">
+<path fill="#f4476b" d="M1 0h11v1h-11z
+M0 1h2v1h-2z
+M3 1h7v1h-7z
+M11 1h2v1h-2z
+M0 2h1v1h-1z
+M4 2h5v1h-5z
+M10 2h1v1h-1z
+M12 2h1v1h-1z
+M0 3h2v1h-2z
+M3 3h7v1h-7z
+M11 3h2v1h-2z
+M0 4h13v1h-13z
+M0 5h4v1h-4z
+M9 5h4v1h-4z
+M1 6h2v1h-2z
+M10 6h2v1h-2z"/>
+</g>
+<g transform="translate(52.00 28.00) scale(0.01400)" fill="#f4476b">
+<use href="#q50" x="0"/>
+<use href="#q4c" x="775"/>
+<use href="#q41" x="1425"/>
+<use href="#q59" x="2200"/>
+<use href="#q4e" x="3500"/>
+<use href="#q45" x="4400"/>
+<use href="#q4f" x="5050"/>
+<use href="#q52" x="5825"/>
+<use href="#q55" x="6600"/>
+<use href="#q4e" x="7375"/>
+<use href="#q4e" x="8275"/>
+<use href="#q45" x="9175"/>
+<use href="#q52" x="9825"/>
+<use href="#q53" x="10600"/>
+</g>
+</svg>

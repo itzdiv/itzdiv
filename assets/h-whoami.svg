@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-labelledby="title desc">
+<title id="title">01 WHOAMI</title>
+<desc id="desc">// the human behind the AI twin</desc>
+<style>.blink{animation:blink 1.06s steps(1,end) infinite}@keyframes blink{0%{opacity:1}50%{opacity:0}}@keyframes headC{0%{transform:translate(-1px,0)}70.00%{transform:translate(-4px,1px)}70.73%{transform:translate(3px,-2px)}71.47%{transform:translate(-7px,1px)}72.20%{transform:translate(-1px,0)}}@keyframes headR{0%{transform:translate(1px,0)}70.00%{transform:translate(4px,-1px)}70.73%{transform:translate(-3px,2px)}71.47%{transform:translate(7px,-1px)}72.20%{transform:translate(1px,0)}}.headC{animation:headC 5.0s steps(1,end) infinite}.headR{animation:headR 5.0s steps(1,end) infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<path id="q30" d="M250 0V-125H125V-500H250V-625H625V-500H750V-125H625V0Z
+M375 -130H500V-495H375Z"/>
+<path id="q31" d="M125 0V-125H250V-500H125V-625H500V-125H625V0Z"/>
+<path id="q57" d="M250 0V-125H125V-625H375V-500H625V-625H875V-125H750V0Z"/>
+<path id="q48" d="M125 0V-625H375V-375H500V-625H750V0H500V-250H375V0Z"/>
+<path id="q4f" d="M250 0V-125H125V-500H250V-625H625V-500H750V-125H625V0Z
+M375 -130H500V-495H375Z"/>
+<path id="q41" d="M125 0V-500H250V-625H625V-500H750V0H500V-250H375V0Z
+M375 -375H500V-495H375Z"/>
+<path id="q4d" d="M125 0V-625H375V-500H625V-625H875V0H625V-250H375V0Z"/>
+<path id="q49" d="M125 0V-625H375V0Z"/>
+<path id="m2f" d="M68 110 420 -830H532L180 110Z"/>
+<path id="m74" d="M360 0Q285 0 243 -41Q201 -82 201 -155V-452H49V-550H201V-705H309V-550H524V-452H309V-155Q309 -98 364 -98H514V0Z"/>
+<path id="m68" d="M84 0V-730H192V-550L191 -445H217L191 -420Q191 -486 230 -523Q269 -560 338 -560Q420 -560 469 -508Q518 -455 518 -366V0H410V-354Q410 -408 381 -438Q352 -468 302 -468Q251 -468 222 -436Q192 -405 192 -347V0Z"/>
+<path id="m65" d="M300 10Q233 10 183 -16Q132 -43 105 -91Q78 -139 78 -203V-347Q78 -412 105 -459Q132 -507 183 -534Q233 -560 300 -560Q368 -560 418 -534Q468 -507 495 -459Q522 -412 522 -347V-249H182V-203Q182 -142 213 -110Q243 -78 301 -78Q348 -78 377 -94Q406 -111 413 -143H520Q508 -73 448 -32Q388 10 300 10Z
+M418 -314V-348Q418 -408 388 -441Q358 -474 300 -474Q243 -474 212 -441Q182 -408 182 -347V-322L426 -323Z"/>
+<path id="m75" d="M299 10Q200 10 141 -48Q82 -105 82 -204V-550H190V-204Q190 -147 219 -116Q248 -84 299 -84Q351 -84 380 -116Q410 -147 410 -204V-550H518V-204Q518 -105 458 -47Q399 10 299 10Z"/>
+<path id="m6d" d="M59 0V-550H149V-480H169L154 -459Q154 -505 179 -533Q204 -560 246 -560Q291 -560 315 -525Q340 -490 340 -429L316 -480H354L338 -459Q338 -505 363 -533Q389 -560 432 -560Q483 -560 512 -521Q541 -483 541 -419V0H445V-416Q445 -447 432 -464Q418 -481 393 -481Q368 -481 355 -464Q341 -448 341 -417V0H260V-416Q260 -448 246 -464Q232 -481 206 -481Q181 -481 168 -464Q156 -448 156 -417V0Z"/>
+<path id="m61" d="M245 10Q159 10 110 -35Q60 -79 60 -156Q60 -234 112 -279Q165 -323 257 -323H410V-374Q410 -419 382 -444Q354 -469 303 -469Q258 -469 228 -450Q198 -430 193 -398H87Q96 -472 155 -516Q215 -560 306 -560Q404 -560 461 -510Q518 -461 518 -376V0H413V-101H395L413 -121Q413 -61 367 -25Q321 10 245 10Z
+M277 -73Q335 -73 373 -102Q410 -132 410 -178V-250H259Q217 -250 193 -227Q168 -204 168 -164Q168 -122 197 -97Q226 -73 277 -73Z"/>
+<path id="m6e" d="M84 0V-550H191V-445H217L191 -420Q191 -486 230 -523Q269 -560 338 -560Q420 -560 469 -508Q518 -455 518 -366V0H410V-354Q410 -408 381 -437Q352 -466 302 -466Q251 -466 222 -436Q192 -405 192 -347V0Z"/>
+<path id="m62" d="M339 10Q271 10 231 -27Q191 -65 191 -130L214 -105H191V0H84V-730H192V-573L189 -445H214L191 -420Q191 -485 231 -522Q272 -560 339 -560Q422 -560 472 -504Q522 -448 522 -352V-197Q522 -102 472 -46Q422 10 339 10Z
+M302 -84Q355 -84 385 -114Q415 -145 415 -203V-347Q415 -405 385 -436Q355 -466 302 -466Q251 -466 222 -435Q192 -403 192 -347V-203Q192 -147 222 -115Q251 -84 302 -84Z"/>
+<path id="m69" d="M81 0V-98H274V-452H106V-550H379V-98H556V0Z
+M316 -645Q281 -645 260 -664Q240 -682 240 -713Q240 -745 260 -763Q281 -782 316 -782Q352 -782 373 -763Q393 -745 393 -713Q393 -682 373 -664Q352 -645 316 -645Z"/>
+<path id="m64" d="M261 10Q178 10 128 -46Q78 -102 78 -197V-352Q78 -448 128 -504Q178 -560 261 -560Q329 -560 369 -522Q409 -485 409 -420L386 -445H411L408 -573V-730H516V0H409V-105H386L409 -130Q409 -65 369 -27Q329 10 261 10Z
+M298 -84Q349 -84 379 -115Q408 -147 408 -203V-347Q408 -403 379 -435Q349 -466 298 -466Q245 -466 215 -436Q185 -405 185 -347V-203Q185 -145 215 -114Q245 -84 298 -84Z"/>
+<path id="m41" d="M43 0 229 -730H371L557 0H448L404 -185H197L153 0Z
+M217 -274H383L333 -485Q320 -541 311 -582Q303 -624 300 -639Q297 -624 289 -583Q281 -541 267 -486Z"/>
+<path id="m49" d="M98 0V-96H245V-634H98V-730H502V-634H355V-96H502V0Z"/>
+<path id="m77" d="M113 0 28 -550H119L170 -187Q174 -162 177 -131Q181 -101 183 -81Q185 -101 190 -131Q194 -161 198 -187L255 -550H346L402 -187Q406 -161 410 -131Q415 -100 417 -80Q419 -101 424 -131Q428 -162 432 -187L484 -550H572L484 0H370L316 -359Q312 -387 307 -418Q302 -450 300 -469Q297 -450 293 -418Q288 -387 284 -359L228 0Z"/>
+</defs>
+<path d="M11 4H989L999 14V50L989 60H11L1 50V14Z" fill="#04060a"/>
+<path d="M11 4H989L999 14V50L989 60H11L1 50V14Z" fill="none" stroke="#a3e635" stroke-opacity=".35"/>
+<rect x="14" y="14" width="38" height="36" fill="#a3e635" fill-opacity=".08" stroke="#a3e635" stroke-opacity=".7" stroke-width="1.5"/>
+<g transform="translate(22.32 37.00) scale(0.01400)" fill="#a3e635">
+<use href="#q30" x="0"/>
+<use href="#q31" x="775"/>
+</g>
+<g class="headC" opacity=".85">
+<g transform="translate(68.00 43.00) scale(0.02800)" fill="#22d3ee">
+<use href="#q57" x="0"/>
+<use href="#q48" x="900"/>
+<use href="#q4f" x="1675"/>
+<use href="#q41" x="2450"/>
+<use href="#q4d" x="3225"/>
+<use href="#q49" x="4125"/>
+</g>
+</g>
+<g class="headR" opacity=".85">
+<g transform="translate(68.00 43.00) scale(0.02800)" fill="#f4476b">
+<use href="#q57" x="0"/>
+<use href="#q48" x="900"/>
+<use href="#q4f" x="1675"/>
+<use href="#q41" x="2450"/>
+<use href="#q4d" x="3225"/>
+<use href="#q49" x="4125"/>
+</g>
+</g>
+<g transform="translate(68.00 43.00) scale(0.02800)" fill="#f5e416">
+<use href="#q57" x="0"/>
+<use href="#q48" x="900"/>
+<use href="#q4f" x="1675"/>
+<use href="#q41" x="2450"/>
+<use href="#q4d" x="3225"/>
+<use href="#q49" x="4125"/>
+</g>
+<rect class="blink" x="203.5" y="19" width="12" height="24" fill="#f5e416"/>
+<g transform="translate(227.50 40.00) scale(0.01400)" fill="#8a8279">
+<use href="#m2f" x="0"/>
+<use href="#m2f" x="600"/>
+<use href="#m74" x="1800"/>
+<use href="#m68" x="2400"/>
+<use href="#m65" x="3000"/>
+<use href="#m68" x="4200"/>
+<use href="#m75" x="4800"/>
+<use href="#m6d" x="5400"/>
+<use href="#m61" x="6000"/>
+<use href="#m6e" x="6600"/>
+<use href="#m62" x="7800"/>
+<use href="#m65" x="8400"/>
+<use href="#m68" x="9000"/>
+<use href="#m69" x="9600"/>
+<use href="#m6e" x="10200"/>
+<use href="#m64" x="10800"/>
+<use href="#m74" x="12000"/>
+<use href="#m68" x="12600"/>
+<use href="#m65" x="13200"/>
+<use href="#m41" x="14400"/>
+<use href="#m49" x="15000"/>
+<use href="#m74" x="16200"/>
+<use href="#m77" x="16800"/>
+<use href="#m69" x="17400"/>
+<use href="#m6e" x="18000"/>
+</g>
+<path d="M503.9 35.5H966" stroke="#a3e635" stroke-opacity=".4" stroke-dasharray="3 5"/>
+<rect x="970" y="32" width="8" height="8" fill="#a3e635"/>
+</svg>

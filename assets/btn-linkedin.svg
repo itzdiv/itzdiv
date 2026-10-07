@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="44" viewBox="0 0 144 44" role="img" aria-labelledby="title desc">
+<title id="title">LINKEDIN</title>
+<desc id="desc">LINKEDIN button</desc>
+<style>.sheen{animation:sheen 4.5s ease-in-out 1.0499999999999998s infinite}@keyframes sheen{0%{transform:translateX(-80px)}40%{transform:translateX(184px)}100%{transform:translateX(184px)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<path id="q4c" d="M125 0V-625H375V-125H625V0Z"/>
+<path id="q49" d="M125 0V-625H375V0Z"/>
+<path id="q4e" d="M125 0V-625H375V-500H500V-375H625V-625H875V0H625V-125H500V-250H375V0Z"/>
+<path id="q4b" d="M125 0V-625H375V-500H500V-625H750V-500H625V-375H500V-250H625V-125H750V0H500V-125H375V0Z"/>
+<path id="q45" d="M125 0V-625H625V-500H375V-375H625V-250H375V-125H625V0Z"/>
+<path id="q44" d="M125 0V-625H625V-500H750V-125H625V0Z
+M375 -125H495V-500H375Z"/>
+<clipPath id="buttonClip">
+<path d="M8 1H136L143 8V36L136 43H8L1 36V8Z"/>
+</clipPath>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#f5e416" stop-opacity="0"/>
+<stop offset=".5" stop-color="#f5e416" stop-opacity=".28"/>
+<stop offset="1" stop-color="#f5e416" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<path d="M8 1H136L143 8V36L136 43H8L1 36V8Z" fill="#04060a"/>
+<path d="M8 1H136L143 8V36L136 43H8L1 36V8Z" fill="#f5e416" fill-opacity=".08"/>
+<g clip-path="url(#buttonClip)">
+<path d="M0 3.5H144" stroke="#f5e416" stroke-opacity=".25"/>
+<g class="sheen">
+<rect x="0" y="0" width="60" height="44" fill="url(#sheen)" transform="skewX(-20)"/>
+</g>
+</g>
+<path d="M8 1H136L143 8V36L136 43H8L1 36V8Z" fill="none" stroke="#f5e416" stroke-width="2"/>
+<g transform="translate(14 12.0) scale(2)" shape-rendering="crispEdges">
+<path fill="#f5e416" d="M1 0h9v1h-9z
+M0 1h2v1h-2z
+M3 1h8v1h-8z
+M0 2h11v1h-11z
+M0 3h2v1h-2z
+M3 3h1v1h-1z
+M9 3h2v1h-2z
+M0 4h2v1h-2z
+M3 4h1v1h-1z
+M5 4h3v1h-3z
+M9 4h2v1h-2z
+M0 5h2v1h-2z
+M3 5h1v1h-1z
+M5 5h3v1h-3z
+M9 5h2v1h-2z
+M0 6h2v1h-2z
+M3 6h1v1h-1z
+M5 6h3v1h-3z
+M9 6h2v1h-2z
+M0 7h2v1h-2z
+M3 7h1v1h-1z
+M5 7h3v1h-3z
+M9 7h2v1h-2z
+M0 8h11v1h-11z
+M1 9h9v1h-9z"/>
+</g>
+<g transform="translate(48.00 28.00) scale(0.01400)" fill="#f5e416">
+<use href="#q4c" x="0"/>
+<use href="#q49" x="650"/>
+<use href="#q4e" x="1050"/>
+<use href="#q4b" x="1950"/>
+<use href="#q45" x="2725"/>
+<use href="#q44" x="3375"/>
+<use href="#q49" x="4150"/>
+<use href="#q4e" x="4550"/>
+</g>
+</svg>

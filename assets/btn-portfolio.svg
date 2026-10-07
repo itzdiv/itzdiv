@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157" height="44" viewBox="0 0 157 44" role="img" aria-labelledby="title desc">
+<title id="title">PORTFOLIO</title>
+<desc id="desc">PORTFOLIO button</desc>
+<style>.sheen{animation:sheen 4.5s ease-in-out 0.7s infinite}@keyframes sheen{0%{transform:translateX(-80px)}40%{transform:translateX(197px)}100%{transform:translateX(197px)}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<path id="q50" d="M125 0V-625H625V-500H750V-375H625V-250H375V0Z
+M375 -375H495V-500H375Z"/>
+<path id="q4f" d="M250 0V-125H125V-500H250V-625H625V-500H750V-125H625V0Z
+M375 -130H500V-495H375Z"/>
+<path id="q52" d="M125 0V-625H625V-500H750V-375H625V-125H750V0H500V-125H375V0Z
+M375 -375H500V-500H375Z"/>
+<path id="q54" d="M250 0V-500H125V-625H625V-500H500V0Z"/>
+<path id="q46" d="M125 0V-625H625V-500H375V-375H625V-250H375V0Z"/>
+<path id="q4c" d="M125 0V-625H375V-125H625V0Z"/>
+<path id="q49" d="M125 0V-625H375V0Z"/>
+<clipPath id="buttonClip">
+<path d="M8 1H149L156 8V36L149 43H8L1 36V8Z"/>
+</clipPath>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+<stop offset=".5" stop-color="#22d3ee" stop-opacity=".28"/>
+<stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<path d="M8 1H149L156 8V36L149 43H8L1 36V8Z" fill="#04060a"/>
+<path d="M8 1H149L156 8V36L149 43H8L1 36V8Z" fill="#22d3ee" fill-opacity=".08"/>
+<g clip-path="url(#buttonClip)">
+<path d="M0 3.5H157" stroke="#22d3ee" stroke-opacity=".25"/>
+<g class="sheen">
+<rect x="0" y="0" width="60" height="44" fill="url(#sheen)" transform="skewX(-20)"/>
+</g>
+</g>
+<path d="M8 1H149L156 8V36L149 43H8L1 36V8Z" fill="none" stroke="#22d3ee" stroke-width="2"/>
+<g transform="translate(14 13.0) scale(2)" shape-rendering="crispEdges">
+<path fill="#22d3ee" d="M0 0h12v1h-12z
+M0 1h1v1h-1z
+M2 1h1v1h-1z
+M4 1h1v1h-1z
+M6 1h6v1h-6z
+M0 2h12v1h-12z
+M0 3h1v1h-1z
+M11 3h1v1h-1z
+M0 4h1v1h-1z
+M2 4h4v1h-4z
+M11 4h1v1h-1z
+M0 5h1v1h-1z
+M11 5h1v1h-1z
+M0 6h1v1h-1z
+M2 6h7v1h-7z
+M11 6h1v1h-1z
+M0 7h1v1h-1z
+M11 7h1v1h-1z
+M0 8h12v1h-12z"/>
+</g>
+<g transform="translate(50.00 28.00) scale(0.01400)" fill="#22d3ee">
+<use href="#q50" x="0"/>
+<use href="#q4f" x="775"/>
+<use href="#q52" x="1550"/>
+<use href="#q54" x="2325"/>
+<use href="#q46" x="2975"/>
+<use href="#q4f" x="3625"/>
+<use href="#q4c" x="4400"/>
+<use href="#q49" x="5050"/>
+<use href="#q4f" x="5450"/>
+</g>
+</svg>

@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="68" viewBox="0 0 400 68" role="img" aria-labelledby="title desc">
+<title id="title">AI stack</title>
+<desc id="desc">OpenRouter, Gemini, RAG, pgvector, agents, tool calling, LLM routing, semantic cache</desc>
+<style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<path id="p4f" d="M250 0V-125H125V-500H250V-625H500V-500H625V-125H500V0Z
+M250 -130H500V-495H250Z"/>
+<path id="p50" d="M125 0V-625H500V-500H625V-375H500V-250H250V0Z
+M250 -375H495V-500H250Z"/>
+<path id="p45" d="M125 0V-625H500V-500H250V-375H500V-250H250V-125H500V0Z"/>
+<path id="p4e" d="M125 0V-625H250V-500H375V-375H500V-250H625V-625H750V0H625V-125H500V-250H375V-375H250V0Z"/>
+<path id="p52" d="M125 0V-625H500V-500H625V-375H500V-125H625V0H500V-125H375V-250H250V0Z
+M250 -375H495V-500H250Z"/>
+<path id="p55" d="M250 0V-125H125V-625H250V-125H500V0Z
+M500 -125V-625H625V-125Z"/>
+<path id="p54" d="M250 0V-500H125V-625H500V-500H375V0Z"/>
+<path id="p47" d="M250 -500V-625H625V-500Z
+M125 -125V-500H250V-125Z
+M500 -125V-250H375V-375H625V-125Z
+M250 0V-125H500V0Z"/>
+<path id="p4d" d="M125 0V-625H250V-500H375V-375H500V-250H375V-375H250V0Z
+M625 0V-375H500V-500H625V-625H750V0Z"/>
+<path id="p49" d="M125 0V-625H250V0Z"/>
+<path id="p41" d="M125 0V-500H250V-625H500V-500H625V0H500V-250H250V0Z
+M250 -375H500V-495H250Z"/>
+<path id="p56" d="M375 0V-125H250V-375H125V-625H250V-375H375V-125H500V0Z
+M625 -375V-625H750V-375Z
+M500 -125V-375H625V-125Z"/>
+<path id="p43" d="M500 -375V-500H250V-625H500V-500H625V-375Z
+M250 0V-125H125V-500H250V-125H500V0Z
+M500 -125V-250H625V-125Z"/>
+<path id="p53" d="M250 -500V-625H625V-500Z
+M500 -125V-250H250V-375H125V-500H250V-375H500V-250H625V-125Z
+M125 0V-125H500V0Z"/>
+<path id="p4c" d="M125 0V-625H250V-125H500V0Z"/>
+<path id="p48" d="M125 0V-625H250V-375H500V-625H625V0H500V-250H250V0Z"/>
+</defs>
+<rect x="2" y="2" width="98.2" height="28" fill="#04060a"/>
+<rect x="2" y="2" width="98.2" height="28" fill="#a3e635" fill-opacity=".1" stroke="#a3e635" stroke-opacity=".7"/>
+<rect x="9" y="13" width="6" height="6" fill="#a3e635"/>
+<g transform="translate(20.00 21.00) scale(0.01200)" fill="#f5f3e8">
+<use href="#p4f" x="0"/>
+<use href="#p50" x="650"/>
+<use href="#p45" x="1300"/>
+<use href="#p4e" x="1825"/>
+<use href="#p52" x="2600"/>
+<use href="#p4f" x="3250"/>
+<use href="#p55" x="3900"/>
+<use href="#p54" x="4550"/>
+<use href="#p45" x="5075"/>
+<use href="#p52" x="5600"/>
+</g>
+<rect x="108.2" y="2" width="62.5" height="28" fill="#04060a"/>
+<rect x="108.2" y="2" width="62.5" height="28" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".7"/>
+<rect x="115.2" y="13" width="6" height="6" fill="#22d3ee"/>
+<g transform="translate(126.20 21.00) scale(0.01200)" fill="#f5f3e8">
+<use href="#p47" x="0"/>
+<use href="#p45" x="650"/>
+<use href="#p4d" x="1175"/>
+<use href="#p49" x="1950"/>
+<use href="#p4e" x="2225"/>
+<use href="#p49" x="3000"/>
+</g>
+<rect x="178.7" y="2" width="46.6" height="28" fill="#04060a"/>
+<rect x="178.7" y="2" width="46.6" height="28" fill="#f5e416" fill-opacity=".1" stroke="#f5e416" stroke-opacity=".7"/>
+<rect x="185.7" y="13" width="6" height="6" fill="#f5e416"/>
+<g transform="translate(196.70 21.00) scale(0.01200)" fill="#f5f3e8">
+<use href="#p52" x="0"/>
+<use href="#p41" x="650"/>
+<use href="#p47" x="1300"/>
+</g>
+<rect x="233.29999999999998" y="2" width="84.1" height="28" fill="#04060a"/>
+<rect x="233.29999999999998" y="2" width="84.1" height="28" fill="#f4476b" fill-opacity=".1" stroke="#f4476b" stroke-opacity=".7"/>
+<rect x="240.29999999999998" y="13" width="6" height="6" fill="#f4476b"/>
+<g transform="translate(251.30 21.00) scale(0.01200)" fill="#f5f3e8">
+<use href="#p50" x="0"/>
+<use href="#p47" x="650"/>
+<use href="#p56" x="1300"/>
+<use href="#p45" x="2075"/>
+<use href="#p43" x="2600"/>
+<use href="#p54" x="3250"/>
+<use href="#p4f" x="3775"/>
+<use href="#p52" x="4425"/>
+</g>
+<rect x="325.4" y="2" width="68.5" height="28" fill="#04060a"/>
+<rect x="325.4" y="2" width="68.5" height="28" fill="#a3e635" fill-opacity=".1" stroke="#a3e635" stroke-opacity=".7"/>
+<rect x="332.4" y="13" width="6" height="6" fill="#a3e635"/>
+<g transform="translate(343.40 21.00) scale(0.01200)" fill="#f5f3e8">
+<use href="#p41" x="0"/>
+<use href="#p47" x="650"/>
+<use href="#p45" x="1300"/>
+<use href="#p4e" x="1825"/>
+<use href="#p54" x="2600"/>
+<use href="#p53" x="3125"/>
+</g>
+<rect x="2" y="38" width="104.8" height="28" fill="#04060a"/>
+<rect x="2" y="38" width="104.8" height="28" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".7"/>
+<rect x="9" y="49" width="6" height="6" fill="#22d3ee"/>
+<g transform="translate(20.00 57.00) scale(0.01200)" fill="#f5f3e8">
+<use href="#p54" x="0"/>
+<use href="#p4f" x="525"/>
+<use href="#p4f" x="1175"/>
+<use href="#p4c" x="1825"/>
+<use href="#p43" x="2750"/>
+<use href="#p41" x="3400"/>
+<use href="#p4c" x="4050"/>
+<use href="#p4c" x="4575"/>
+<use href="#p49" x="5100"/>
+<use href="#p4e" x="5375"/>
+<use href="#p47" x="6150"/>
+</g>
+<rect x="114.8" y="38" width="100.0" height="28" fill="#04060a"/>
+<rect x="114.8" y="38" width="100.0" height="28" fill="#f5e416" fill-opacity=".1" stroke="#f5e416" stroke-opacity=".7"/>
+<rect x="121.8" y="49" width="6" height="6" fill="#f5e416"/>
+<g transform="translate(132.80 57.00) scale(0.01200)" fill="#f5f3e8">
+<use href="#p4c" x="0"/>
+<use href="#p4c" x="525"/>
+<use href="#p4d" x="1050"/>
+<use href="#p52" x="2225"/>
+<use href="#p4f" x="2875"/>
+<use href="#p55" x="3525"/>
+<use href="#p54" x="4175"/>
+<use href="#p49" x="4700"/>
+<use href="#p4e" x="4975"/>
+<use href="#p47" x="5750"/>
+</g>
+<rect x="222.8" y="38" width="123.4" height="28" fill="#04060a"/>
+<rect x="222.8" y="38" width="123.4" height="28" fill="#f4476b" fill-opacity=".1" stroke="#f4476b" stroke-opacity=".7"/>
+<rect x="229.8" y="49" width="6" height="6" fill="#f4476b"/>
+<g transform="translate(240.80 57.00) scale(0.01200)" fill="#f5f3e8">
+<use href="#p53" x="0"/>
+<use href="#p45" x="650"/>
+<use href="#p4d" x="1175"/>
+<use href="#p41" x="1950"/>
+<use href="#p4e" x="2600"/>
+<use href="#p54" x="3375"/>
+<use href="#p49" x="3900"/>
+<use href="#p43" x="4175"/>
+<use href="#p43" x="5225"/>
+<use href="#p41" x="5875"/>
+<use href="#p43" x="6525"/>
+<use href="#p48" x="7175"/>
+<use href="#p45" x="7825"/>
+</g>
+</svg>
